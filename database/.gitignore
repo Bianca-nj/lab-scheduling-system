@@ -1,0 +1,15 @@
+*.sqlite*
+# Local database
+/database/*.sqlite
+/database/*.sqlite-journal
+
+# Runtime files
+/storage/logs/*
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+
+# Uploaded files
+/storage/app/private/*
+/storage/app/public/*
