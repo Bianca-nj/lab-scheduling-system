@@ -6,9 +6,9 @@ The Rule-Based Intelligent Laboratory Scheduling System is designed to simplify 
 Lecturers can submit laboratory booking requests through a public request form. The system processes each request using predefined rules and automatically determines whether the request can be approved or rejected.
 
 **Features**
-Laboratory Scheduling: Submit requests for laboratory sessions.
-Automatic Allocation: Assign suitable laboratories based on scheduling rules.
-Capacity Validation: Check whether a laboratory can accommodate the requested class size.
+- Laboratory Scheduling: Submit requests for laboratory sessions.
+- Automatic Allocation: Assign suitable laboratories based on scheduling rules.
+- Capacity Validation: Check whether a laboratory can accommodate the requested class size.
 Conflict Detection: Identify scheduling conflicts and unavailable time slots.
 Resource Management: Manage laboratory equipment and other available resources.
 Rule Management: Configure the rules used when evaluating scheduling requests.
